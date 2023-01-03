@@ -1,0 +1,13 @@
+*{
+    margin:0;
+}
+h1{
+    background-color: yellowgreen;
+    text-align: center;
+}
+a{
+    text-decoration: none;
+}
+.blog{
+    background-color: rgba(165, 42, 42, 0.39);
+}
